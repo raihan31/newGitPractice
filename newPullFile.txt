@@ -1,2 +1,3 @@
 new Text
 merged new Text
+new new text
